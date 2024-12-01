@@ -61,9 +61,7 @@ To run WanderHome locally, follow these steps:
 ![image](https://github.com/NEET64/Airbnb-clone-wanderhome/assets/67575976/c66ff76d-0cf3-41f8-a4ac-a3b539b46737)
 
 
-## Video Demonstration
 
-(https://youtu.be/6OvXJ6w9Xmc)
 
 ## Contributing
 
